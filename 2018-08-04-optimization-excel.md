@@ -29,6 +29,7 @@ Where Os is the solute price while in the extract, Px is the price of pure solve
 Solute Mass Balance:
 
 <!–– F x_0 – W'_1 y_1 – F x_1 = 0 -->
+
 ![img](http://latex.codecogs.com/svg.latex?F+x_0+%E2%80%93+W%27_1+y_1+%E2%80%93+F+x_1+%3D+0)
 
 \begin{equation}
