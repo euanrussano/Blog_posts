@@ -30,7 +30,7 @@ Solute Mass Balance:
 
 <!-- F x_0 – W'_1 y_1 – F x_1 = 0 -->
 
-<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_0-W'_1y_1-F%20x_1%20%3D%200">
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_1-W'_1%20y_1-F%20x_1%20=%200">
 
 \begin{equation}
 F x_1 – W’_2 y_2 – F x_2 = 0
