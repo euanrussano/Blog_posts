@@ -30,7 +30,7 @@ Solute Mass Balance:
 
 <img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_0-W'_1%20y_1-F%20x_1%20=%200">
 
-<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_1–W’_2%20y_2–F%20x_2%20=%200">
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_1-W’_2%20y_2-F%20x_2%20=%200">
 
 Solvent Mass Balance:
 
