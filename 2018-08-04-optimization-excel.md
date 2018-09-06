@@ -28,35 +28,25 @@ Where Os is the solute price while in the extract, Px is the price of pure solve
 
 Solute Mass Balance:
 
-<!-- F x_0 – W'_1 y_1 – F x_1 = 0 -->
-
 <img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_0-W'_1%20y_1-F%20x_1%20=%200">
 
-\begin{equation}
-F x_1 – W’_2 y_2 – F x_2 = 0
-\end{equation}
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_1%20–%20W’_2%20y_2%20–%20F%20x_2%20=%200">
 
 Solvent Mass Balance:
 
-\begin{equation}
-W_1 – W’_1 – s F = 0
-\end{equation}
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?W_1%20–%20W’_1%20–%20s%20F%20=%200">
 
-\begin{equation}
-W_2 + s F – W’_2 – s F = 0
-\end{equation}
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?W_2%20+%20s%20F%20–%20W’_2%20–%20s%20F%20=%200">
+
 
 Equilibrium relations:
 
-\begin{equation}
-y_1 = m x_1
-\end{equation}
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?y_1%20=%20m%20x_1">
 
-\begin{equation}
-y_2 = m x_2
-\end{equation}
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?y_2%20=%20m%20x_2">
 
-Where $$s$$ is the solubility of the solvent in water(solvent mass / mass of water) and m is the equilibrium constant between phases. Therefore, given $$F$$, $$x_0$$, $$s$$, $$m$$, $$Ps$$ and $$Px$$, the problem of extracting the solute from water in the most profitable manner consists in maximizing L as a function of the operating conditions.
+
+Where <img id="ccgimage" src="http://latex.codecogs.com/gif.latex?s"> is the solubility of the solvent in water(solvent mass / mass of water) and m is the equilibrium constant between phases. Therefore, given $$F$$, $$x_0$$, $$s$$, $$m$$, $$Ps$$ and $$Px$$, the problem of extracting the solute from water in the most profitable manner consists in maximizing L as a function of the operating conditions.
 
 Suppose:  
 $$F = 1.0 \times 10^4$$ kg-water / h,  
