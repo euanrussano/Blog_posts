@@ -46,15 +46,15 @@ Equilibrium relations:
 <img id="ccgimage" src="http://latex.codecogs.com/gif.latex?y_2%20=%20m%20x_2">
 
 
-Where <img id="ccgimage" src="http://latex.codecogs.com/gif.latex?s"> is the solubility of the solvent in water(solvent mass / mass of water) and m is the equilibrium constant between phases. Therefore, given $$F$$, $$x_0$$, $$s$$, $$m$$, $$Ps$$ and $$Px$$, the problem of extracting the solute from water in the most profitable manner consists in maximizing L as a function of the operating conditions.
+Where <img id="ccgimage" src="http://latex.codecogs.com/gif.latex?s"> is the solubility of the solvent in water(solvent mass / mass of water) and m is the equilibrium constant between phases. Therefore, given F, <img id="ccgimage" src="http://latex.codecogs.com/gif.latex?x_0">, s, m, Ps and Px, the problem of extracting the solute from water in the most profitable manner consists in maximizing L as a function of the operating conditions.
 
 Suppose:  
-$$F = 1.0 \times 10^4$$ kg-water / h,  
-$$x_0 = 0.02 $$ kg-solute / kg-water,  
-$$s = 7.0 \times 10^{-4}$$ kg-solvent / kg-water,  
-$$m = 4.0 $$ kg-water / kg solvent,  
-$$Ps = 0.4 $$ USD / kg-solute and  
-$$Px = 0.01 $$ USD / kg-solvent.
+F = 1.0E4 kg-water / h,  
+x_0 = 0.02  kg-solute / kg-water,  
+s = 7.0E-4 kg-solvent / kg-water,  
+m = 4.0  kg-water / kg solvent,  
+Ps = 0.4  USD / kg-solute and  
+Px = 0.01 USD / kg-solvent.
 
 We want to solve such problem using the software MS Excel. The first step consists in annotating all the inputs of the system in the following manner (use a spreadsheet in Excel - first line and column should be the same in your spreadsheet):
 
