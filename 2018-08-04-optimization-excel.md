@@ -1,4 +1,4 @@
-#Using MS Excel Solver for Process Optimization
+# Using MS Excel Solver for Process Optimization
 
 A common problem which many engineers face on their jobs is process optimization. How to maximize a profit or how to minimize costs of a determined process so as to make it the most profitable possible? There is a diversity of mathematical techniques which can be used to solve such problem. Most of these techniques differ in its applicability when a problem is linear or non-linear.
 
@@ -12,7 +12,7 @@ For the purpose of this post, consider the following example extracted from COQ-
 
 **Example 1.2:** In the process of extraction using pure solvent, as illustrated below, one desires to find the operating condition with the best profit possible.
 
-![alt text](img/2018-08-04-optimization-excel/extraction_process.png "Extraction Process")
+![alt text](img/2018-08-04-optimization-excel/extraction_process.png)
 
 Where *Wi* and *W'i* are solvent mass flow rates, *F* is water mass flow rate, *xi* is the solute mass per mass unit of water and yi is the solute mass per mass unit of solvent. An economic analysis of the problem conducts to the following profit expression:
 
@@ -28,9 +28,8 @@ Where Os is the solute price while in the extract, Px is the price of pure solve
 
 Solute Mass Balance:
 
-\begin{equation}
-F x_0 – W'_1 y_1 – F x_1 = 0
-\end{equation}
+// F x_0 – W'_1 y_1 – F x_1 = 0
+![img](http://latex.codecogs.com/svg.latex?F+x_0+%E2%80%93+W%27_1+y_1+%E2%80%93+F+x_1+%3D+0)
 
 \begin{equation}
 F x_1 – W’_2 y_2 – F x_2 = 0
@@ -117,7 +116,7 @@ The values in the cell are not inserted, but automatically calculated by excel u
 
 After configuring everything, it is time to proceed to optimization. To do that, start Solver (it is located in the tab Data in Excel. If you do not find it, it is necessary to configure it in Excel Options. Write a comment if you need any help with that). The solver screen is as shown below.
  
-![alt text](../img/2018-08-04-optimization-excel/solver_screen.png "Solver Window")
+![alt text](img/2018-08-04-optimization-excel/solver_screen.png)
 
 Make sure you add the current optimization cell, chose the "Max" radio button and add the constraints with the Add button and your Solver window should look the same as the figure above. Then simply click Solve and see how the operating conditions change, in such a way that the constraints are almost zero (or zero exactly) and the Profit variable is maximized. You may slightly change the operating conditions to check if the profit is really the maximum possible.
 
