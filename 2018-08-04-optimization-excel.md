@@ -30,13 +30,13 @@ Solute Mass Balance:
 
 <img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_0-W'_1%20y_1-F%20x_1%20=%200">
 
-<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_1%20–%20W’_2%20y_2%20–%20F%20x_2%20=%200">
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?F%20x_1–W’_2%20y_2–F%20x_2%20=%200">
 
 Solvent Mass Balance:
 
-<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?W_1%20–%20W’_1%20–%20s%20F%20=%200">
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?W_1-W’_1-s%20F%20=%200">
 
-<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?W_2%20+%20s%20F%20–%20W’_2%20–%20s%20F%20=%200">
+<img id="ccgimage" src="http://latex.codecogs.com/gif.latex?W_2+sF-W’_2-sF%20=%200">
 
 
 Equilibrium relations:
