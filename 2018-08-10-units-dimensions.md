@@ -1,7 +1,4 @@
----
-layout: post
-title: Units and Dimensions - What are the differences
----
+# Units and Dimensions - What are the differences
 
 A car is moving at 100 miles per hours. How many minutes it takes to go from A to B, distant 345 kilometers?
 

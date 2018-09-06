@@ -1,8 +1,5 @@
----
-layout: post
-title: Using Python for Process Optimization
-image: /img/python-logo.png
----
+# Using Python for Process Optimization
+![Python](img/python-logo.png)
 
 Hello!
 
